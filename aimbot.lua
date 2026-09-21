@@ -24,7 +24,7 @@ local TriggerbotTab = Window:CreateTab("Triggerbot", nil)
 local ESPTab = Window:CreateTab("ESP", nil)
 local ChecksTab = Window:CreateTab("Checks", nil)
 local MovementTab = Window:CreateTab("Movement", nil)
-local Seal's photoTab = Window:CreateTab("Seal", nil)
+local SealPhotoTab = Window:CreateTab("Seal", nil)
 
 -- ===== СЕРВИСЫ =====
 local Players = game:GetService("Players")
