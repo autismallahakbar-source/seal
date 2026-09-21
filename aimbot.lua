@@ -20,11 +20,11 @@ local Window = Rayfield:CreateWindow({
 -- ===== ВКЛАДКИ =====
 local MainTab = Window:CreateTab("Aimbot", nil)
 local SpinTab = Window:CreateTab("Spin", nil)
-local TriggerTab = Window:CreateTab("Triggerbot", nil)
+
 local ESPTab = Window:CreateTab("ESP", nil)
 local ChecksTab = Window:CreateTab("Checks", nil)
 local MovementTab = Window:CreateTab("Movement", nil)
-local SealPhotoTab = Window:CreateTab("Seal's Photo", nil)
+
 
 -- ===== СЕРВИСЫ =====
 local Players = game:GetService("Players")
